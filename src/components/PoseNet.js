@@ -151,7 +151,7 @@ PoseNet.defaultProps = {
   style: {},
   className: "",
   facingMode: "user",
-  frameRate: 20,
+  frameRate: 60,
   input: undefined,
   onEstimate: () => {},
   inferenceConfig: {},
