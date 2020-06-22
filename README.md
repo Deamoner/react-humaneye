@@ -1,6 +1,6 @@
 # React humaneye
 
-React PoseNet is a handy wrapper component for [tfjs-models/posenet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+React humaneye is a handy wrapper component for [tfjs-models/posenet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 
 ## Documentation
 
